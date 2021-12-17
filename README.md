@@ -1,2 +1,4 @@
-# 100days_of_Javascript_Template
-Ready to Rage , ......... 
+# GST_Calculator
+
+
+# live_demo : https://raydcode.github.io/GST-Calculator/
